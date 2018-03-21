@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PrimalMC:jar">
+    <output-path>$USER_HOME$/Desktop/TestServer/plugins</output-path>
+    <root id="archive" name="PrimalMC.jar">
+      <element id="module-output" name="PrimalMC" />
+    </root>
+  </artifact>
+</component>

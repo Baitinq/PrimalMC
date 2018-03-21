@@ -1,0 +1,21 @@
+name: PrimalMC
+version: 0.1-Alpha
+author: Baitinq
+main: com.baitinq.primalmc.Main
+description: PrimalMC Network Core Plugin.
+load: STARTUP
+commands:
+    staff:
+      aliases: [mod, primalstaff]
+    vanish:
+      aliases: [v]
+    alert:
+      aliases: [broadcast, primalalert]
+    teamspeak:
+      aliases: [ts, primalts, primalteamspeak]
+    discord:
+      aliases: [disc, pdisc, primaldiscord]
+    website:
+      aliases: [website, www, primalwebsite, pwebsite, pwww, web, pweb]
+    store:
+      aliases: [primalstore, pstore]
